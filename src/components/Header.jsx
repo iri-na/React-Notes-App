@@ -1,9 +1,12 @@
 import React from "react";
+import CreateIcon from '@material-ui/icons/Create';
 
 function Header() {
     return (
         <header>
-            <h1>Notes to Self</h1>
+            <h1>
+                <CreateIcon /> Notes to Self
+            </h1>
         </header>
 
     );
