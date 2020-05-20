@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Notes to Self
+A web application built with the React framework that allows you to create notes and delete them. The app uses React Hooks and Material UI for its frontend and uses Node as its runtime environment. 
+
 
 ## Available Scripts
 
